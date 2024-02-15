@@ -1,0 +1,1 @@
+/home/max/AndroidStudioProjects/RectangleVK/app/build/intermediates/cxx/Debug/463j1z6m/obj/armeabi-v7a

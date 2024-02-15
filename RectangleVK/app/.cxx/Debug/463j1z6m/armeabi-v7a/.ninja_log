@@ -1,0 +1,10 @@
+# ninja log v5
+0	4062	1707842004780255660	CMakeFiles/hellovkjni.dir/vk_main.cpp.o	378f336fc9750701
+4064	4287	1707842005028249551	/home/max/AndroidStudioProjects/RectangleVK/app/build/intermediates/cxx/Debug/463j1z6m/obj/armeabi-v7a/libhellovkjni.so	e6a6c7c693ec813
+54	3304	1707844219465025083	CMakeFiles/hellovkjni.dir/vk_main.cpp.o	378f336fc9750701
+3304	3731	1707844219937028983	/home/max/AndroidStudioProjects/RectangleVK/app/build/intermediates/cxx/Debug/463j1z6m/obj/armeabi-v7a/libhellovkjni.so	e6a6c7c693ec813
+0	375	0	clean	dbfb0e9a61685a1d
+317	8190	1707912366883646351	CMakeFiles/hellovkjni.dir/vk_main.cpp.o	378f336fc9750701
+8191	11363	1707912370071512746	/home/max/AndroidStudioProjects/RectangleVK/app/build/intermediates/cxx/Debug/463j1z6m/obj/armeabi-v7a/libhellovkjni.so	e6a6c7c693ec813
+34	5542	1707915037037618515	CMakeFiles/hellovkjni.dir/vk_main.cpp.o	378f336fc9750701
+5799	6989	1707915039029606892	/home/max/AndroidStudioProjects/RectangleVK/app/build/intermediates/cxx/Debug/463j1z6m/obj/armeabi-v7a/libhellovkjni.so	e6a6c7c693ec813

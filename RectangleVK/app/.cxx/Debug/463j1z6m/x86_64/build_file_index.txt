@@ -1,0 +1,1 @@
+/home/max/AndroidStudioProjects/RectangleVK/app/src/main/cpp/CMakeLists.txt

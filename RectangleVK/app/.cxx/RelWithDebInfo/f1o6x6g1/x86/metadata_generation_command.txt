@@ -1,0 +1,20 @@
+                        -H/home/max/AndroidStudioProjects/RectangleVK/app/src/main/cpp
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=30
+-DANDROID_PLATFORM=android-30
+-DANDROID_ABI=x86
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DANDROID_NDK=/home/max/Android/Sdk/ndk/25.2.9519653
+-DCMAKE_ANDROID_NDK=/home/max/Android/Sdk/ndk/25.2.9519653
+-DCMAKE_TOOLCHAIN_FILE=/home/max/Android/Sdk/ndk/25.2.9519653/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/home/max/Android/Sdk/cmake/3.22.1/bin/ninja
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/home/max/AndroidStudioProjects/RectangleVK/app/build/intermediates/cxx/RelWithDebInfo/f1o6x6g1/obj/x86
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/home/max/AndroidStudioProjects/RectangleVK/app/build/intermediates/cxx/RelWithDebInfo/f1o6x6g1/obj/x86
+-DCMAKE_BUILD_TYPE=RelWithDebInfo
+-DCMAKE_FIND_ROOT_PATH=/home/max/AndroidStudioProjects/RectangleVK/app/.cxx/RelWithDebInfo/f1o6x6g1/prefab/x86/prefab
+-B/home/max/AndroidStudioProjects/RectangleVK/app/.cxx/RelWithDebInfo/f1o6x6g1/x86
+-GNinja
+-DANDROID_STL=c++_shared
+                        Build command args: []
+                        Version: 2

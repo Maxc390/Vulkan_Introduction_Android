@@ -1,0 +1,2 @@
+ninja: Entering directory `/home/max/AndroidStudioProjects/Polygon_Vk/app/.cxx/Debug/463j1z6m/armeabi-v7a'
+ninja: no work to do.

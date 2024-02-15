@@ -1,0 +1,23 @@
+# ninja log v5
+311	9536	1707935042407020963	CMakeFiles/hellovkjni.dir/vk_main.cpp.o	a6471eb9a429d4f8
+9538	14280	1707935047167090499	/home/max/AndroidStudioProjects/Bresenhams_Vk/app/build/intermediates/cxx/Debug/463j1z6m/obj/x86/libhellovkjni.so	111638d8e7c9b54f
+33	2570	1707935749396185668	CMakeFiles/hellovkjni.dir/vk_main.cpp.o	a6471eb9a429d4f8
+2571	2875	1707935749696138058	/home/max/AndroidStudioProjects/Bresenhams_Vk/app/build/intermediates/cxx/Debug/463j1z6m/obj/x86/libhellovkjni.so	111638d8e7c9b54f
+40	2275	1707936601147860144	CMakeFiles/hellovkjni.dir/vk_main.cpp.o	a6471eb9a429d4f8
+2296	2531	1707936601411849045	/home/max/AndroidStudioProjects/Bresenhams_Vk/app/build/intermediates/cxx/Debug/463j1z6m/obj/x86/libhellovkjni.so	111638d8e7c9b54f
+2	2587	1707936646853991702	CMakeFiles/hellovkjni.dir/vk_main.cpp.o	a6471eb9a429d4f8
+2588	2724	1707936647005985660	/home/max/AndroidStudioProjects/Bresenhams_Vk/app/build/intermediates/cxx/Debug/463j1z6m/obj/x86/libhellovkjni.so	111638d8e7c9b54f
+77	2850	1707937169170093413	CMakeFiles/hellovkjni.dir/vk_main.cpp.o	a6471eb9a429d4f8
+2850	3202	1707937169534084750	/home/max/AndroidStudioProjects/Bresenhams_Vk/app/build/intermediates/cxx/Debug/463j1z6m/obj/x86/libhellovkjni.so	111638d8e7c9b54f
+2	2162	1707937220164901413	CMakeFiles/hellovkjni.dir/vk_main.cpp.o	a6471eb9a429d4f8
+2162	2254	1707937220268899026	/home/max/AndroidStudioProjects/Bresenhams_Vk/app/build/intermediates/cxx/Debug/463j1z6m/obj/x86/libhellovkjni.so	111638d8e7c9b54f
+25	2198	1707937772364453199	CMakeFiles/hellovkjni.dir/vk_main.cpp.o	a6471eb9a429d4f8
+2198	2356	1707937772536483475	/home/max/AndroidStudioProjects/Bresenhams_Vk/app/build/intermediates/cxx/Debug/463j1z6m/obj/x86/libhellovkjni.so	111638d8e7c9b54f
+2	2149	1707937800105213315	CMakeFiles/hellovkjni.dir/vk_main.cpp.o	a6471eb9a429d4f8
+2149	2203	1707937800169224012	/home/max/AndroidStudioProjects/Bresenhams_Vk/app/build/intermediates/cxx/Debug/463j1z6m/obj/x86/libhellovkjni.so	111638d8e7c9b54f
+1592	14862	1707939658932860653	CMakeFiles/hellovkjni.dir/vk_main.cpp.o	a6471eb9a429d4f8
+14862	16110	1707939660180877198	/home/max/AndroidStudioProjects/Bresenhams_Vk/app/build/intermediates/cxx/Debug/463j1z6m/obj/x86/libhellovkjni.so	111638d8e7c9b54f
+26	2649	1707941224584519877	CMakeFiles/hellovkjni.dir/vk_main.cpp.o	a6471eb9a429d4f8
+2649	2886	1707941224852876794	/home/max/AndroidStudioProjects/Bresenhams_Vk/app/build/intermediates/cxx/Debug/463j1z6m/obj/x86/libhellovkjni.so	111638d8e7c9b54f
+2	2219	1707941419199279630	CMakeFiles/hellovkjni.dir/vk_main.cpp.o	a6471eb9a429d4f8
+2219	2302	1707941419295253460	/home/max/AndroidStudioProjects/Bresenhams_Vk/app/build/intermediates/cxx/Debug/463j1z6m/obj/x86/libhellovkjni.so	111638d8e7c9b54f

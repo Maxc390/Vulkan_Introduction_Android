@@ -1,0 +1,1 @@
+/home/max/AndroidStudioProjects/RectangleVK/app/build/intermediates/cxx/RelWithDebInfo/f1o6x6g1/obj/x86

@@ -1,0 +1,1 @@
+/home/max/AndroidStudioProjects/DDA_Vk/app/src/main/cpp/CMakeLists.txt

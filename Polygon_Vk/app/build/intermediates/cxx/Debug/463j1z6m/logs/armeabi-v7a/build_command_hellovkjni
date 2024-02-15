@@ -1,0 +1,4 @@
+/home/max/Android/Sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /home/max/AndroidStudioProjects/Polygon_Vk/app/.cxx/Debug/463j1z6m/armeabi-v7a \
+  hellovkjni
